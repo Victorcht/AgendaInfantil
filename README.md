@@ -1,2 +1,6 @@
-# AgendaInfantil
-Proyecto de final de grado para la UOC que consiste en una agenda digital gamificada para el público infantil.
+# Agenda Digital Infantil
+Creador: Víctor Chillón Torres
+Universidad: UOC
+Descripción: Agenda con diferentes funcionalidades y gamificación.
+
+# Tecnología empleada y cómo ejecutar
